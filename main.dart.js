@@ -53696,7 +53696,7 @@ F.a4C.prototype={
 $1:function(a){return new R.hT(new P.bw(t.V))},
 $S:354}
 F.AS.prototype={
-R:function(a6,a7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=null,a="Skripsimu\n",a0="Skripsimu is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.",a1="assets/assets/image/home.png",a2=a7.a2(t.w).f.a,a3=t.gW,a4=Y.ab5(a7,!1,a3),a5=Y.ab5(a7,!0,a3)
+R:function(a6,a7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=null,a="Skripsimu\n",a0="Skripsimu is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.",a1="assets/image/home.png",a2=a7.a2(t.w).f.a,a3=t.gW,a4=Y.ab5(a7,!1,a3),a5=Y.ab5(a7,!0,a3)
 a3=a2.a
 s=a3<1200
 r=s&&a3>800
@@ -53748,7 +53748,7 @@ i=H.a([e,d,T.dj(U.aaf(a1,C.hk),q*0.4,b)],i)
 e=P.aJ([null,0],t.st,t.S)
 i=new B.Az(new G.Xv(!0,!0,!0,i,e),b,C.n,!1,b,!0,C.kw,!1,b,3,C.b5,C.xv,b,C.ai,b)}else{d=A.dU(b,b,C.H.j(0,600),b,b,b,b,b,b,b,b,30,b,C.a8,b,b,!0,b,b,b,b,b,b,b)
 e=T.dj(T.V1(b,b,C.bf,!0,b,Q.jO(H.a([Q.jO(b,A.dU(b,b,C.H.j(0,600),b,b,b,b,b,b,b,b,50,b,C.a8,b,b,!0,b,b,b,b,b,b,b),a),Q.jO(b,A.dU(b,b,C.hF,b,b,b,b,b,b,b,b,14,b,b,b,b,!0,b,b,b,b,b,b,b),a0)],t.sU),d,"Welcome to\n"),C.dN,b,b,1,C.ap),b,e)
-i=T.a6G(H.a([e,T.dj(U.aaf(a1,C.ej),q*0.5,b)],i),C.bE,C.iW,C.dt)}return M.abj(b,b,M.eS(b,new V.y8(C.j,2,new X.cX(o,C.t),M.abj(new E.pV(j,m,new X.cX(new K.cj(new P.bs(30,30),new P.bs(30,30),C.Q,C.Q),C.t),n,!1,new P.N(1/0,56),b),C.aN,M.eS(b,i,b,new S.dv(l,b,b,new K.cj(C.Q,C.Q,new P.bs(30,30),new P.bs(30,30)),b,b,C.a0),q,b,new V.bc(k,k,k,k),b)),b),b,new S.dv(b,new X.z7(new L.mp("assets/assets/image/bg6.jpg",b,b),C.ej),b,b,b,b,C.a0),q,b,new V.bc(p,p,p,p),a3))}}
+i=T.a6G(H.a([e,T.dj(U.aaf(a1,C.ej),q*0.5,b)],i),C.bE,C.iW,C.dt)}return M.abj(b,b,M.eS(b,new V.y8(C.j,2,new X.cX(o,C.t),M.abj(new E.pV(j,m,new X.cX(new K.cj(new P.bs(30,30),new P.bs(30,30),C.Q,C.Q),C.t),n,!1,new P.N(1/0,56),b),C.aN,M.eS(b,i,b,new S.dv(l,b,b,new K.cj(C.Q,C.Q,new P.bs(30,30),new P.bs(30,30)),b,b,C.a0),q,b,new V.bc(k,k,k,k),b)),b),b,new S.dv(b,new X.z7(new L.mp("assets/image/bg6.jpg",b,b),C.ej),b,b,b,b,C.a0),q,b,new V.bc(p,p,p,p),a3))}}
 F.Su.prototype={
 $0:function(){var s=this.a
 s.a=0
