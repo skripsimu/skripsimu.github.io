@@ -54000,11 +54000,11 @@ a_h:function(a,b,c,d,e,f){var s,r=K.lk(a,!0).c
 r.toString
 s=M.aku(a,r)
 return K.lk(a,!0).qE(E.ajT(C.E,!0,null,new F.T_(f,b,e,c,d),a,null,s,!0,t.z))},
-R:function(a6,a7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=null,a="Skripsimu\n",a0="Skripsimu is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.is a personal website for testing Flutter on the Web. Hopefully it will perform as expected.",a1="https://skripsimu.github.io/assets/assets/image/home.png",a2=a7.Z(t.w).f.a,a3=t.gW,a4=Y.abE(a7,!1,a3),a5=Y.abE(a7,!0,a3)
-a3=a2.a
-s=a3<1200
-r=s&&a3>800
-q=a2.b
+R:function(a7,a8){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=null,a="Welcome to\n",a0="Skripsimu\n",a1="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",a2="https://skripsimu.github.io/assets/assets/image/home.png",a3=a8.Z(t.w).f.a,a4=t.gW,a5=Y.abE(a8,!1,a4),a6=Y.abE(a8,!0,a4)
+a4=a3.a
+s=a4<1200
+r=s&&a4>800
+q=a3.b
 p=s?20:70
 o=K.kv(30)
 n=$.afl()
@@ -54026,33 +54026,33 @@ i=h.j(0,f)
 i.toString
 Z.pQ(new F.Qh(new L.Qi("Inter",f),i))
 i=t.E
-j=T.a7c(H.a([m,l,k,U.oG(L.lN("Skripsimu",g.Xy("Inter_"+f.h(0),H.a(["Inter"],t.s)),b,b),new F.SS(a4),j)],i),C.az,C.dw,C.aY)
-if(s)m=H.a([R.a6x(!1,!0,L.As(C.i9,C.y.j(0,600),b),b,!0,b,b,b,b,b,b,b,b,b,new F.ST(this,a7,a4,a2),b,b,b),T.c4(b,b,10)],i)
+j=T.a7c(H.a([m,l,k,U.oG(L.lN("Skripsimu",g.Xy("Inter_"+f.h(0),H.a(["Inter"],t.s)),b,b),new F.SS(a5),j)],i),C.az,C.dw,C.aY)
+if(s)m=H.a([R.a6x(!1,!0,L.As(C.i9,C.y.j(0,600),b),b,!0,b,b,b,b,b,b,b,b,b,new F.ST(this,a8,a5,a3),b,b,b),T.c4(b,b,10)],i)
 else{m=H.a([L.lN("Blog",A.d8(b,b,C.y.j(0,600),b,b,b,b,b,b,b,b,b,b,C.a2,b,b,!0,b,b,b,b,b,b,b),b,b)],i)
-if(a5.a===1)m.push(T.c4(b,4,b))
-if(a5.a===1)m.push(M.dN(b,b,C.y.j(0,600),b,2,b,b,35))
-m=U.oG(T.mM(m,C.az,C.br,C.aY),new F.SU(a4),b)
+if(a6.a===1)m.push(T.c4(b,4,b))
+if(a6.a===1)m.push(M.dN(b,b,C.y.j(0,600),b,2,b,b,35))
+m=U.oG(T.mM(m,C.az,C.br,C.aY),new F.SU(a5),b)
 l=T.c4(b,b,20)
 k=H.a([L.lN("Portofolio",A.d8(b,b,C.y.j(0,600),b,b,b,b,b,b,b,b,b,b,C.a2,b,b,!0,b,b,b,b,b,b,b),b,b)],i)
-if(a5.a===2)k.push(T.c4(b,4,b))
-if(a5.a===2)k.push(M.dN(b,b,C.y.j(0,600),b,2,b,b,60))
-k=U.oG(T.mM(k,C.az,C.br,C.aY),new F.SV(a4,a5),b)
+if(a6.a===2)k.push(T.c4(b,4,b))
+if(a6.a===2)k.push(M.dN(b,b,C.y.j(0,600),b,2,b,b,60))
+k=U.oG(T.mM(k,C.az,C.br,C.aY),new F.SV(a5,a6),b)
 e=T.c4(b,b,20)
 d=H.a([L.lN("Contact",A.d8(b,b,C.y.j(0,600),b,b,b,b,b,b,b,b,b,b,C.a2,b,b,!0,b,b,b,b,b,b,b),b,b)],i)
-if(a5.a===3)d.push(T.c4(b,4,b))
-if(a5.a===3)d.push(M.dN(b,b,C.y.j(0,600),b,2,b,b,35))
-m=H.a([m,l,k,e,U.oG(T.mM(d,C.az,C.br,C.aY),new F.SW(a4),b),T.c4(b,b,20)],i)}l=$.afm()
+if(a6.a===3)d.push(T.c4(b,4,b))
+if(a6.a===3)d.push(M.dN(b,b,C.y.j(0,600),b,2,b,b,35))
+m=H.a([m,l,k,e,U.oG(T.mM(d,C.az,C.br,C.aY),new F.SW(a5),b),T.c4(b,b,20)],i)}l=$.afm()
 k=s?15:0
-e=a3*0.35
+e=a4*0.35
 if(s){d=A.d8(b,b,C.y.j(0,600),b,b,b,b,b,b,b,b,20,b,C.a2,b,b,!0,b,b,b,b,b,b,b)
-c=Q.jT(b,A.d8(b,b,C.y.j(0,600),b,b,b,b,b,b,b,b,24,b,C.a2,b,b,!0,b,b,b,b,b,b,b),a)
-e=T.c4(T.Vv(b,b,C.bg,!0,b,Q.jT(H.a([c,Q.jT(b,A.d8(b,b,C.hI,b,b,b,b,b,b,b,b,r?18:14,b,b,b,b,!0,b,b,b,b,b,b,b),a0)],t.sU),d,"Welcome to "),C.dP,b,b,1,C.aq),b,e)
+c=Q.jT(b,A.d8(b,b,C.y.j(0,600),b,b,b,b,b,b,b,b,35,b,C.a2,b,b,!0,b,b,b,b,b,b,b),a0)
+e=T.c4(T.Vv(b,b,C.bg,!0,b,Q.jT(H.a([c,Q.jT(b,A.d8(b,b,C.hI,b,b,b,b,b,b,b,b,r?18:14,b,b,b,b,!0,b,b,b,b,b,b,b),a1)],t.sU),d,a),C.dP,b,b,1,C.aq),b,e)
 d=T.c4(b,30,b)
-i=H.a([e,d,T.c4(U.aaP(a1,C.hm),q*0.4,b)],i)
+i=H.a([e,d,T.c4(U.aaP(a2,C.hm),q*0.4,b)],i)
 e=P.aM([null,0],t.st,t.S)
 i=new B.AS(new G.XZ(!0,!0,!0,i,e),b,C.n,!1,b,!0,C.kA,!1,b,3,C.b7,C.xz,b,C.ai,b)}else{d=A.d8(b,b,C.y.j(0,600),b,b,b,b,b,b,b,b,30,b,C.a2,b,b,!0,b,b,b,b,b,b,b)
-e=T.c4(T.Vv(b,b,C.bg,!0,b,Q.jT(H.a([Q.jT(b,A.d8(b,b,C.y.j(0,600),b,b,b,b,b,b,b,b,50,b,C.a2,b,b,!0,b,b,b,b,b,b,b),a),Q.jT(b,A.d8(b,b,C.hI,b,b,b,b,b,b,b,b,14,b,b,b,b,!0,b,b,b,b,b,b,b),a0)],t.sU),d,"Welcome to\n"),C.dP,b,b,1,C.aq),b,e)
-i=T.a7c(H.a([e,T.c4(U.aaP(a1,C.ek),q*0.5,b)],i),C.az,C.iZ,C.aY)}return M.abT(b,b,M.dN(b,new V.yv(C.j,2,new X.cS(o,C.t),M.abT(new E.q8(j,m,new X.cS(new K.cl(new P.bt(30,30),new P.bt(30,30),C.Q,C.Q),C.t),n,!1,new P.N(1/0,56),b),C.aQ,M.dN(b,i,b,new S.dw(l,b,b,new K.cl(C.Q,C.Q,new P.bt(30,30),new P.bt(30,30)),b,b,C.a0),q,b,new V.b6(k,k,k,k),b)),b),b,new S.dw(b,new X.zu(new D.ll("https://skripsimu.github.io/assets/assets/image/bg6.jpg",1),C.ek),b,b,b,b,C.a0),q,b,new V.b6(p,p,p,p),a3))}}
+e=T.c4(T.Vv(b,b,C.bg,!0,b,Q.jT(H.a([Q.jT(b,A.d8(b,b,C.y.j(0,600),b,b,b,b,b,b,b,b,50,b,C.a2,b,b,!0,b,b,b,b,b,b,b),a0),Q.jT(b,A.d8(b,b,C.hI,b,b,b,b,b,b,b,b,14,b,b,b,b,!0,b,b,b,b,b,b,b),a1)],t.sU),d,a),C.dP,b,b,1,C.aq),b,e)
+i=T.a7c(H.a([e,T.c4(U.aaP(a2,C.ek),q*0.5,b)],i),C.az,C.iZ,C.aY)}return M.abT(b,b,M.dN(b,new V.yv(C.j,2,new X.cS(o,C.t),M.abT(new E.q8(j,m,new X.cS(new K.cl(new P.bt(30,30),new P.bt(30,30),C.Q,C.Q),C.t),n,!1,new P.N(1/0,56),b),C.aQ,M.dN(b,i,b,new S.dw(l,b,b,new K.cl(C.Q,C.Q,new P.bt(30,30),new P.bt(30,30)),b,b,C.a0),q,b,new V.b6(k,k,k,k),b)),b),b,new S.dw(b,new X.zu(new D.ll("https://skripsimu.github.io/assets/assets/image/bg6.jpg",1),C.ek),b,b,b,b,C.a0),q,b,new V.b6(p,p,p,p),a4))}}
 F.T_.prototype={
 $1:function(a){var s,r,q=this,p=null,o=K.kv(20),n=q.a,m=n/4,l=t.E,k=H.a([T.c4(T.mF(L.lN("Blog",A.d8(p,p,C.y.j(0,600),p,p,p,p,p,p,p,p,p,p,C.a2,p,p,!0,p,p,p,p,p,p,p),p,p),p,p),p,n)],l),j=q.c,i=j===1
 if(i)k.push(T.c4(p,4,p))
