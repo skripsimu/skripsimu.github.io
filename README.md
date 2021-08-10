@@ -1,1 +1,1 @@
-# skripsimu.github.io
+https://skripsimu.github.io/
