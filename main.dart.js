@@ -58668,14 +58668,14 @@ a37:function(a,b,c,d,e,f){var s,r=K.hP(a,!0).c
 r.toString
 s=M.arg(a,r)
 return K.hP(a,!0).tw(E.aqy(C.F,!0,null,new F.X3(f,b,e,c,d),a,null,s,!0,t.z))},
-O:function(b1,b2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1=null,a2="Welcome to\n",a3="Skripsimu\n",a4="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",a5="https://skripsimu.github.io/assets/assets/image/home.png",a6="https://skripsimu.github.io/assets/assets/image/about.png",a7=b2.a2(t.w).f.a,a8=t.BG,a9=Y.EE(b2,!1,a8),b0=Y.EE(b2,!0,a8)
-a8=a7.a
-s=a8<1200
-r=s&&a8>800
+O:function(b2,b3){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1=null,a2="Maafin aku\n",a3="Maaf udah sering bikin bete, maaf udah sering gamau diajak main, maaf kalo main sama aku malah emosi gara2 aku gabisa gendong! Jangan lama-lama ngambeknyaaaaa, aku kangennnn",a4="Skripsimu\n",a5="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",a6="https://skripsimu.github.io/assets/assets/image/sorry.png",a7="https://skripsimu.github.io/assets/assets/image/about.png",a8=b3.a2(t.w).f.a,a9=t.BG,b0=Y.EE(b3,!1,a9),b1=Y.EE(b3,!0,a9)
+a9=a8.a
+s=a9<1200
+r=s&&a9>800
 q=t.Ma
 p=H.b([T.ix(L.dt("Powered by Flutter",A.bE(a1,a1,C.m.h(0,600),a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a1,a1),a1,a1)],q)
-o=a7.b
-b0.toString
+o=a8.b
+b1.toString
 n=s?20:70
 m=K.hp(30)
 l=$.aep()
@@ -58696,42 +58696,42 @@ d=Z.av4(new Z.dl(g,C.aK),f.gac(f))
 g=f.h(0,d)
 g.toString
 Z.r7(new F.TL(new L.TM("Inter",d),g))
-h=T.kA(H.b([k,j,i,h,U.pL(L.dt("Skripsimu",e.a02("Inter_"+H.c(d),H.b(["Inter"],t.s)),a1,a1),new F.WM(a9))],q),C.a9,C.b6,C.a6)
-if(s)k=H.b([R.f8(!1,!0,L.eC(C.iy,C.m.h(0,600),a1),a1,!0,a1,a1,a1,a1,a1,a1,a1,a1,a1,new F.WN(this,b2,a9,a7),a1,a1,a1),T.b0(a1,a1,10)],q)
+h=T.kA(H.b([k,j,i,h,U.pL(L.dt("Maaf",e.a02("Inter_"+H.c(d),H.b(["Inter"],t.s)),a1,a1),new F.WM(b0))],q),C.a9,C.b6,C.a6)
+if(s)k=H.b([R.f8(!1,!0,L.eC(C.iy,C.m.h(0,600),a1),a1,!0,a1,a1,a1,a1,a1,a1,a1,a1,a1,new F.WN(this,b3,b0,a8),a1,a1,a1),T.b0(a1,a1,10)],q)
 else{k=H.b([L.dt("About",A.bE(a1,a1,C.m.h(0,600),a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,C.B,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a1,a1)],q)
-if(b0.a===1)k.push(T.b0(a1,4,a1))
-if(b0.a===1)k.push(M.ct(a1,a1,C.m.h(0,600),a1,a1,2,a1,a1,35))
-k=U.pL(T.k2(k,C.a9,C.bl,C.a6),new F.WO(a9))
+if(b1.a===1)k.push(T.b0(a1,4,a1))
+if(b1.a===1)k.push(M.ct(a1,a1,C.m.h(0,600),a1,a1,2,a1,a1,35))
+k=U.pL(T.k2(k,C.a9,C.bl,C.a6),new F.WO(b0))
 j=T.b0(a1,a1,20)
 i=H.b([L.dt("Project",A.bE(a1,a1,C.m.h(0,600),a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,C.B,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a1,a1)],q)
-if(b0.a===2)i.push(T.b0(a1,4,a1))
-if(b0.a===2)i.push(M.ct(a1,a1,C.m.h(0,600),a1,a1,2,a1,a1,60))
-i=U.pL(T.k2(i,C.a9,C.bl,C.a6),new F.WP(a9,b0))
+if(b1.a===2)i.push(T.b0(a1,4,a1))
+if(b1.a===2)i.push(M.ct(a1,a1,C.m.h(0,600),a1,a1,2,a1,a1,60))
+i=U.pL(T.k2(i,C.a9,C.bl,C.a6),new F.WP(b0,b1))
 g=T.b0(a1,a1,20)
 c=H.b([L.dt("Contact",A.bE(a1,a1,C.m.h(0,600),a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,C.B,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a1,a1)],q)
-if(b0.a===3)c.push(T.b0(a1,4,a1))
-if(b0.a===3)c.push(M.ct(a1,a1,C.m.h(0,600),a1,a1,2,a1,a1,35))
-k=H.b([k,j,i,g,U.pL(T.k2(c,C.a9,C.bl,C.a6),new F.WQ(a9)),T.b0(a1,a1,20)],q)}j=$.aeq()
+if(b1.a===3)c.push(T.b0(a1,4,a1))
+if(b1.a===3)c.push(M.ct(a1,a1,C.m.h(0,600),a1,a1,2,a1,a1,35))
+k=H.b([k,j,i,g,U.pL(T.k2(c,C.a9,C.bl,C.a6),new F.WQ(b0)),T.b0(a1,a1,20)],q)}j=$.aeq()
 i=s?15:0
 if(s){g=A.bE(a1,a1,C.m.h(0,600),a1,a1,a1,a1,a1,a1,a1,a1,20,a1,C.B,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1)
-c=Q.en(a1,A.bE(a1,a1,C.m.h(0,600),a1,a1,a1,a1,a1,a1,a1,a1,35,a1,C.B,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a3)
-g=T.b0(T.vI(a1,a1,C.aT,!0,a1,Q.en(H.b([c,Q.en(a1,A.bE(a1,a1,C.di,a1,a1,a1,a1,a1,a1,a1,a1,r?18:14,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a4)],t.bu),g,a2),C.ca,a1,a1,1,C.ai),a1,a8*0.35)
+c=Q.en(a1,A.bE(a1,a1,C.m.h(0,600),a1,a1,a1,a1,a1,a1,a1,a1,35,a1,C.B,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),"SAYANG\n")
+g=T.b0(T.vI(a1,a1,C.aT,!0,a1,Q.en(H.b([c,Q.en(a1,A.bE(a1,a1,C.di,a1,a1,a1,a1,a1,a1,a1,a1,r?18:14,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a3)],t.bu),g,a2),C.ca,a1,a1,1,C.ai),a1,a9*0.35)
 c=T.b0(a1,30,a1)
 b=o*0.4
-g=B.ach(H.b([g,c,T.b0(U.tK(a5,C.de),b,a1)],q))}else{g=A.bE(a1,a1,C.m.h(0,600),a1,a1,a1,a1,a1,a1,a1,a1,30,a1,C.B,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1)
-g=T.b0(T.vI(a1,a1,C.aT,!0,a1,Q.en(H.b([Q.en(a1,A.bE(a1,a1,C.m.h(0,600),a1,a1,a1,a1,a1,a1,a1,a1,50,a1,C.B,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a3),Q.en(a1,A.bE(a1,a1,C.di,a1,a1,a1,a1,a1,a1,a1,a1,14,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a4)],t.bu),g,a2),C.ca,a1,a1,1,C.ai),a1,a8*0.35)
+g=B.ach(H.b([g,c,T.b0(U.tK(a6,C.de),b,a1)],q))}else{g=A.bE(a1,a1,C.m.h(0,600),a1,a1,a1,a1,a1,a1,a1,a1,30,a1,C.B,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1)
+g=T.b0(T.vI(a1,a1,C.aT,!0,a1,Q.en(H.b([Q.en(a1,A.bE(a1,a1,C.m.h(0,600),a1,a1,a1,a1,a1,a1,a1,a1,50,a1,C.B,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),"SAYANG\n"),Q.en(a1,A.bE(a1,a1,C.di,a1,a1,a1,a1,a1,a1,a1,a1,14,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a3)],t.bu),g,a2),C.ca,a1,a1,1,C.ai),a1,a9*0.35)
 c=o*0.5
-g=T.kA(H.b([g,T.b0(U.tK(a5,C.cf),c,a1)],q),C.a9,C.dR,C.a6)}if(s){c=o*0.4
-c=T.b0(U.tK(a6,C.de),c,a1)
+g=T.kA(H.b([g,T.b0(U.tK(a6,C.cf),c,a1)],q),C.a9,C.dR,C.a6)}if(s){c=o*0.4
+c=T.b0(U.tK(a7,C.de),c,a1)
 b=T.b0(a1,30,a1)
 a=A.bE(a1,a1,C.m.h(0,600),a1,a1,a1,a1,a1,a1,a1,a1,20,a1,C.B,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1)
-a0=Q.en(a1,A.bE(a1,a1,C.m.h(0,600),a1,a1,a1,a1,a1,a1,a1,a1,35,a1,C.B,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a3)
-c=B.ach(H.b([c,b,T.b0(T.vI(a1,a1,C.aT,!0,a1,Q.en(H.b([a0,Q.en(a1,A.bE(a1,a1,C.di,a1,a1,a1,a1,a1,a1,a1,a1,r?18:14,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a4)],t.bu),a,"About\n"),C.ca,a1,a1,1,C.ai),a1,a8*0.35)],q))}else{c=o*0.5
-c=T.b0(U.tK(a6,C.cf),c,a1)
+a0=Q.en(a1,A.bE(a1,a1,C.m.h(0,600),a1,a1,a1,a1,a1,a1,a1,a1,35,a1,C.B,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a4)
+c=B.ach(H.b([c,b,T.b0(T.vI(a1,a1,C.aT,!0,a1,Q.en(H.b([a0,Q.en(a1,A.bE(a1,a1,C.di,a1,a1,a1,a1,a1,a1,a1,a1,r?18:14,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a5)],t.bu),a,"About\n"),C.ca,a1,a1,1,C.ai),a1,a9*0.35)],q))}else{c=o*0.5
+c=T.b0(U.tK(a7,C.cf),c,a1)
 b=A.bE(a1,a1,C.m.h(0,600),a1,a1,a1,a1,a1,a1,a1,a1,30,a1,C.B,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1)
-b=T.kA(H.b([c,T.b0(T.vI(a1,a1,C.aT,!0,a1,Q.en(H.b([Q.en(a1,A.bE(a1,a1,C.m.h(0,600),a1,a1,a1,a1,a1,a1,a1,a1,50,a1,C.B,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a3),Q.en(a1,A.bE(a1,a1,C.di,a1,a1,a1,a1,a1,a1,a1,a1,14,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a4)],t.bu),b,"About\n"),C.ca,a1,a1,1,C.ai),a1,a8*0.35)],q),C.a9,C.dR,C.a6)
-c=b}q=H.b([g,c,this.a3x(b2),this.a_N(b2,b0.a,a8,o,s,r,"https://skripsimu.github.io/assets/assets/image/")],q)
-return M.ahS(a1,a1,M.ct(a1,new V.Ay(C.j,2,new X.d5(m,C.q),M.ahS(new E.rt(h,k,new X.d5(new K.cs(new P.bC(30,30),new P.bC(30,30),C.P,C.P),C.q),l,!1,new P.Q(1/0,56),a1),C.aX,M.ct(a1,new D.uO(b0.f,new L.Dz(a1),G.ai0(q,!0,!0,!0),a1),a1,a1,new S.cN(j,a1,a1,new K.cs(C.P,C.P,new P.bC(30,30),new P.bC(30,30)),a1,a1,C.S),o,a1,new V.aK(i,i,i,i),a1),a1),a1),a1,a1,new S.cN(a1,new X.Bw(new D.m6("https://skripsimu.github.io/assets/assets/image/bg6.jpg",1),C.cf),a1,a1,a1,a1,C.S),o,a1,new V.aK(n,n,n,n),a8),p)},
+b=T.kA(H.b([c,T.b0(T.vI(a1,a1,C.aT,!0,a1,Q.en(H.b([Q.en(a1,A.bE(a1,a1,C.m.h(0,600),a1,a1,a1,a1,a1,a1,a1,a1,50,a1,C.B,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a4),Q.en(a1,A.bE(a1,a1,C.di,a1,a1,a1,a1,a1,a1,a1,a1,14,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1),a5)],t.bu),b,"About\n"),C.ca,a1,a1,1,C.ai),a1,a9*0.35)],q),C.a9,C.dR,C.a6)
+c=b}q=H.b([g,c,this.a3x(b3),this.a_N(b3,b1.a,a9,o,s,r,"https://skripsimu.github.io/assets/assets/image/")],q)
+return M.ahS(a1,a1,M.ct(a1,new V.Ay(C.j,2,new X.d5(m,C.q),M.ahS(new E.rt(h,k,new X.d5(new K.cs(new P.bC(30,30),new P.bC(30,30),C.P,C.P),C.q),l,!1,new P.Q(1/0,56),a1),C.aX,M.ct(a1,new D.uO(b1.f,new L.Dz(a1),G.ai0(q,!0,!0,!0),a1),a1,a1,new S.cN(j,a1,a1,new K.cs(C.P,C.P,new P.bC(30,30),new P.bC(30,30)),a1,a1,C.S),o,a1,new V.aK(i,i,i,i),a1),a1),a1),a1,a1,new S.cN(a1,new X.Bw(new D.m6("https://skripsimu.github.io/assets/assets/image/bg6.jpg",1),C.cf),a1,a1,a1,a1,C.S),o,a1,new V.aK(n,n,n,n),a9),p)},
 a3x:function(a){var s=null,r=t.BG,q=Y.EE(a,!0,r),p=Y.EE(a,!1,r),o=q.d
 C.b.ct(o,new F.X5())
 if(!q.e){r=o.length
